@@ -23,9 +23,3 @@ Este projeto foi desenvolvido por um grupo de alunos
 ## Créditos:
 
 Creditos especial ao  [Nicolas ](https://github.com/Nicro01)  pelo desenvolvimento inicial do projeto!
-
----
-
-*Nota: Este é um documento de exemplo e deve ser adaptado de acordo com as especificidades do projeto e da instituição de ensino.*
-
-*Substitua os espaços reservados pelos nomes dos alunos, links e outras informações relevantes antes de usar o README em seu projeto.*
