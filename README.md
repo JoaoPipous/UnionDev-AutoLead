@@ -22,7 +22,7 @@ Este projeto foi desenvolvido por um grupo de alunos
 
 ## Créditos:
 
-Creditos especial ao - [Nicolas ](https://github.com/Nicro01) pelo desenvolvimento inicial do projeto!
+Creditos especial ao  [Nicolas ](https://github.com/Nicro01)  pelo desenvolvimento inicial do projeto!
 
 ---
 
