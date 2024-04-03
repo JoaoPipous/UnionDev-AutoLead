@@ -5,7 +5,7 @@ import googlemaps
 import pandas as pd
 import os
 
-API_KEY = ''
+API_KEY = 'AIzaSyDIes_GnJsg7McupweHTwFPcTTXbh7Ei3g'
 gmaps = googlemaps.Client(key=API_KEY)
 
 def home(request):
