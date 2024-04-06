@@ -2,6 +2,10 @@
 
 Este projeto de extensão curricular (PI) é dedicado ao desenvolvimento do AutoLead, um sistema de localização inovador
 
+## Link Maquina
+
+Link de acesso pra maquina virtual Oracle http://150.230.87.220/
+
 ## Oque é o AutoLead:
 
  Este é um projeto que utiliza as bibliotecas telebot e googlemaps para permitir que os usuários pesquisem locais próximos a uma determinada localização. O bot solicita ao usuário a cidade desejada, o raio de pesquisa e o segmento que está sendo procurado. Ele então usa a API do Google Maps para encontrar locais próximos a essa localização e cria um arquivo CSV com as informações encontradas. O arquivo é então enviado de volta ao usuário através do chatbot.
